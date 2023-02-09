@@ -100,3 +100,164 @@
 [2023-02-08 11:24:32] Debug: Music not found: MM3_Title-KM
 [2023-02-08 11:24:35] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
 [2023-02-08 11:24:35] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-02-08 14:43:04] Debug: EasyRPG Player 0.7 git+462@3c29438b (2023-02-02) started
+[2023-02-08 14:43:04] Debug: ========================================================
+[2023-02-08 14:43:04] Debug: CLI: 
+[2023-02-08 14:43:04] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-02-08 14:43:04] Debug: Seeded the RNG with 1675885383.
+[2023-02-08 14:43:04] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-02-08 14:43:04] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-02-08 14:43:04] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-02-08 14:43:04] Debug: Controller 0 (Xbox 360 Controller) added
+[2023-02-08 14:43:04] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-02-08 14:43:04] Debug: Game and Save Directory:
+[2023-02-08 14:43:04] Debug: 1: [Native] 
+[2023-02-08 14:43:04] Debug: Loading game SID Dreams
+[2023-02-08 14:43:04] Debug: Game does not need RTP (FullPackageFlag=1)
+[2023-02-08 14:43:04] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-02-08 14:43:04] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-02-08 14:43:04] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-02-08 14:43:04] Debug: RTP is "Official English" (675/675)
+[2023-02-08 14:43:04] Debug: Adding C:\Program Files (x86)\rpg2003\RTP to RTP path
+[2023-02-08 14:43:04] Debug: RTP is "RPG Advocate English Translation" (674/675)
+[2023-02-08 14:43:04] Warning: This game uses DynRPG and will not run properly.
+[2023-02-08 14:43:04] Debug: Patch configuration: dynrpg=true maniac=true
+[2023-02-08 14:43:04] Debug: Cannot find: Font/ExFont
+[2023-02-08 14:43:04] Debug: Cannot find: ./ExFont
+[2023-02-08 14:43:04] Debug: Loading ExFont from RPG_RT.exe
+[2023-02-08 14:43:04] Debug: EXEReader: EXFONT resource found (DE 0xde2a0; 0xe1718; len 0x2168)
+[2023-02-08 14:43:04] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-02-08 14:43:04] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-02-08 14:43:04] Debug: Cannot find: Font/Font
+[2023-02-08 14:43:04] Debug: Cannot find: Font/Font2
+[2023-02-08 14:43:05] Warning: This game claims it does not need the RTP, but actually uses files from it!
+[2023-02-08 14:43:05] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-02-08 14:43:05] Debug: libpng: cHRM: inconsistent chromaticities
+[2023-02-08 14:43:05] Debug: Cannot find: Music/MM3_Title-KM
+[2023-02-08 14:43:05] Debug: Music not found: MM3_Title-KM
+[2023-02-08 14:43:06] Debug: Starting new game
+[2023-02-08 14:43:06] Debug: Loaded Map Map0002.lmu
+[2023-02-08 14:43:06] Debug: Tree: MAP0002
+[2023-02-08 14:43:11] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-02-08 14:43:11] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-02-08 14:43:11] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-02-08 14:43:11] Debug: libpng: cHRM: inconsistent chromaticities
+[2023-02-08 14:43:11] Debug: Cannot find: Music/MM3_Title-KM
+[2023-02-08 14:43:11] Debug: Music not found: MM3_Title-KM
+[2023-02-08 14:43:13] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-02-08 14:43:13] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-02-08 14:44:45] Debug: EasyRPG Player 0.7 git+462@3c29438b (2023-02-02) started
+[2023-02-08 14:44:45] Debug: ========================================================
+[2023-02-08 14:44:45] Debug: CLI: 
+[2023-02-08 14:44:45] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-02-08 14:44:45] Debug: Seeded the RNG with 1675885484.
+[2023-02-08 14:44:45] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-02-08 14:44:45] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-02-08 14:44:45] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-02-08 14:44:45] Debug: Controller 0 (Xbox 360 Controller) added
+[2023-02-08 14:44:45] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-02-08 14:44:45] Debug: Game and Save Directory:
+[2023-02-08 14:44:45] Debug: 1: [Native] 
+[2023-02-08 14:44:45] Debug: Loading game SID Dreams
+[2023-02-08 14:44:45] Debug: Game does not need RTP (FullPackageFlag=1)
+[2023-02-08 14:44:45] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-02-08 14:44:45] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-02-08 14:44:45] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-02-08 14:44:45] Debug: RTP is "Official English" (675/675)
+[2023-02-08 14:44:45] Debug: Adding C:\Program Files (x86)\rpg2003\RTP to RTP path
+[2023-02-08 14:44:45] Debug: RTP is "RPG Advocate English Translation" (674/675)
+[2023-02-08 14:44:45] Warning: This game uses DynRPG and will not run properly.
+[2023-02-08 14:44:45] Debug: Patch configuration: dynrpg=true maniac=true
+[2023-02-08 14:44:45] Debug: Cannot find: Font/ExFont
+[2023-02-08 14:44:45] Debug: Cannot find: ./ExFont
+[2023-02-08 14:44:45] Debug: Loading ExFont from RPG_RT.exe
+[2023-02-08 14:44:45] Debug: EXEReader: EXFONT resource found (DE 0xde2a0; 0xe1718; len 0x2168)
+[2023-02-08 14:44:45] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-02-08 14:44:45] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-02-08 14:44:45] Debug: Cannot find: Font/Font
+[2023-02-08 14:44:45] Debug: Cannot find: Font/Font2
+[2023-02-08 14:44:46] Warning: This game claims it does not need the RTP, but actually uses files from it!
+[2023-02-08 14:44:46] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-02-08 14:44:46] Debug: libpng: cHRM: inconsistent chromaticities
+[2023-02-08 14:45:04] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-02-08 14:45:04] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-02-08 16:23:06] Debug: EasyRPG Player 0.7 git+462@3c29438b (2023-02-02) started
+[2023-02-08 16:23:06] Debug: ========================================================
+[2023-02-08 16:23:06] Debug: CLI: 
+[2023-02-08 16:23:06] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-02-08 16:23:06] Debug: Seeded the RNG with 1675891385.
+[2023-02-08 16:23:06] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-02-08 16:23:06] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-02-08 16:23:06] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-02-08 16:23:06] Debug: Controller 0 (Xbox 360 Controller) added
+[2023-02-08 16:23:06] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-02-08 16:23:06] Debug: Game and Save Directory:
+[2023-02-08 16:23:06] Debug: 1: [Native] 
+[2023-02-08 16:23:06] Debug: Loading game SID Dreams
+[2023-02-08 16:23:06] Debug: Game does not need RTP (FullPackageFlag=1)
+[2023-02-08 16:23:06] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-02-08 16:23:06] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-02-08 16:23:06] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-02-08 16:23:06] Debug: RTP is "Official English" (675/675)
+[2023-02-08 16:23:06] Debug: Adding C:\Program Files (x86)\rpg2003\RTP to RTP path
+[2023-02-08 16:23:06] Debug: RTP is "RPG Advocate English Translation" (674/675)
+[2023-02-08 16:23:06] Warning: This game uses DynRPG and will not run properly.
+[2023-02-08 16:23:06] Debug: Patch configuration: dynrpg=true maniac=true
+[2023-02-08 16:23:06] Debug: Cannot find: Font/ExFont
+[2023-02-08 16:23:06] Debug: Cannot find: ./ExFont
+[2023-02-08 16:23:06] Debug: Loading ExFont from RPG_RT.exe
+[2023-02-08 16:23:06] Debug: EXEReader: EXFONT resource found (DE 0xde2a0; 0xe1718; len 0x2168)
+[2023-02-08 16:23:06] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-02-08 16:23:06] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-02-08 16:23:06] Debug: Cannot find: Font/Font
+[2023-02-08 16:23:06] Debug: Cannot find: Font/Font2
+[2023-02-08 16:23:07] Warning: This game claims it does not need the RTP, but actually uses files from it!
+[2023-02-08 16:23:07] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-02-08 16:23:07] Debug: libpng: cHRM: inconsistent chromaticities
+[2023-02-08 16:23:07] Debug: Cannot find: Music/(No Sound)
+[2023-02-08 16:23:11] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-02-08 16:23:11] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-02-08 16:23:14] Debug: EasyRPG Player 0.7 git+462@3c29438b (2023-02-02) started
+[2023-02-08 16:23:14] Debug: ========================================================
+[2023-02-08 16:23:14] Debug: CLI: 
+[2023-02-08 16:23:14] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-02-08 16:23:14] Debug: Seeded the RNG with 1675891394.
+[2023-02-08 16:23:14] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-02-08 16:23:14] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-02-08 16:23:14] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-02-08 16:23:14] Debug: Controller 0 (Xbox 360 Controller) added
+[2023-02-08 16:23:14] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-02-08 16:23:14] Debug: Game and Save Directory:
+[2023-02-08 16:23:14] Debug: 1: [Native] 
+[2023-02-08 16:23:14] Debug: Loading game SID Dreams
+[2023-02-08 16:23:14] Debug: Game does not need RTP (FullPackageFlag=1)
+[2023-02-08 16:23:14] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-02-08 16:23:14] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-02-08 16:23:14] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-02-08 16:23:14] Debug: RTP is "Official English" (675/675)
+[2023-02-08 16:23:14] Debug: Adding C:\Program Files (x86)\rpg2003\RTP to RTP path
+[2023-02-08 16:23:14] Debug: RTP is "RPG Advocate English Translation" (674/675)
+[2023-02-08 16:23:14] Warning: This game uses DynRPG and will not run properly.
+[2023-02-08 16:23:14] Debug: Patch configuration: dynrpg=true maniac=true
+[2023-02-08 16:23:14] Debug: Cannot find: Font/ExFont
+[2023-02-08 16:23:14] Debug: Cannot find: ./ExFont
+[2023-02-08 16:23:14] Debug: Loading ExFont from RPG_RT.exe
+[2023-02-08 16:23:14] Debug: EXEReader: EXFONT resource found (DE 0xde2a0; 0xe1718; len 0x2168)
+[2023-02-08 16:23:14] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-02-08 16:23:14] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-02-08 16:23:14] Debug: Cannot find: Font/Font
+[2023-02-08 16:23:14] Debug: Cannot find: Font/Font2
+[2023-02-08 16:23:16] Warning: This game claims it does not need the RTP, but actually uses files from it!
+[2023-02-08 16:23:16] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-02-08 16:23:16] Debug: libpng: cHRM: inconsistent chromaticities
+[2023-02-08 16:23:16] Debug: Cannot find: Music/(No Sound)
+[2023-02-08 16:23:56] Debug: Starting new game
+[2023-02-08 16:23:56] Debug: Loaded Map Map0002.lmu
+[2023-02-08 16:23:56] Debug: Tree: MAP0002
+[2023-02-08 16:24:15] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-02-08 16:24:15] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-02-08 16:24:15] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-02-08 16:24:15] Debug: libpng: cHRM: inconsistent chromaticities
+[2023-02-08 16:24:15] Debug: Cannot find: Music/(No Sound)
+[2023-02-08 16:24:17] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-02-08 16:24:17] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
